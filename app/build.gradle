@@ -4,4 +4,5 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.sajidkhanafridi.coin"
-       
+        minSdkVersion 21
+ 
