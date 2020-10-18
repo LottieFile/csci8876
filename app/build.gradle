@@ -5,4 +5,5 @@ android {
     defaultConfig {
         applicationId "com.sajidkhanafridi.coin"
         minSdkVersion 21
-        targetSdk
+        targetSdkVersion 28
+        
