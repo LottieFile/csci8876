@@ -6,4 +6,5 @@ android {
         applicationId "com.sajidkhanafridi.coin"
         minSdkVersion 21
         targetSdkVersion 28
-        
+        versionCode 1
+        versionName 
