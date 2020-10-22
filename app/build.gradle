@@ -8,4 +8,4 @@ android {
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
-        testInstrumentation
+        testInstrumentationRunner "android.support.tes
