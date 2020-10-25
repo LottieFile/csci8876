@@ -10,4 +10,5 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
-    build
+    buildTypes {
+        rele
