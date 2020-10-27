@@ -13,4 +13,4 @@ android {
     buildTypes {
         release {
             minifyEnabled false
-            proguardFiles getDefaultProguardFi
+            proguardFiles getDefaultProguardFile('proguard-an
