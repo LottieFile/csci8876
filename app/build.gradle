@@ -11,4 +11,5 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
-        rele
+        release {
+            mini
