@@ -1,1 +1,2 @@
-# Add project specific ProGuard
+# Add project specific ProGuard rules here.
+# You c
