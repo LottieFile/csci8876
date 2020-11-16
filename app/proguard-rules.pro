@@ -3,4 +3,4 @@
 # proguardFiles setting in build.gradle.
 #
 # For more details, see
-#   http
+#   http://developer.andro
