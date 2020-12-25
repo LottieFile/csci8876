@@ -3,4 +3,5 @@
     package="com.sajidkhanafridi.coin">
 
     <application
-        android:allowBackup="
+        android:allowBackup="true"
+       
