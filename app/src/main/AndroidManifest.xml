@@ -9,4 +9,5 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=
+        <activity android:name=".MainActivity">
+  
