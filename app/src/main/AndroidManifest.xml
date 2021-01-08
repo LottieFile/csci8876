@@ -10,4 +10,5 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
-            <intent-filte
+            <intent-filter>
+          
