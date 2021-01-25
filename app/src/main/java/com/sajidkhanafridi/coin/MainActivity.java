@@ -18,3 +18,13 @@ public class MainActivity extends AppCompatActivity {
         final int[] coinSet ={R.drawable.front, R.drawable.back};
         final ImageView tossImage = findViewById(R.id.toss_Image);
         Button tossButton = findViewById(R.id.toss_Button);
+        tossButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Random randomNumberGenerator = new Random();
+                int number = randomNumberGenerator.nextInt(2);
+                tossImage.setImageResource(coinSet[number]);
+            }
+        });
+    }
+}
