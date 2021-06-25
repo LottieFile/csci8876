@@ -9,4 +9,5 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id=
+        android:id="@+id/textView"
+        andro
