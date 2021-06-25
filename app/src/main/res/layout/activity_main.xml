@@ -8,4 +8,5 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <T
+    <TextView
+        android:id=
