@@ -6,4 +6,4 @@
     android:layout_height="match_parent"
     android:background="#91752A"
     android:orientation="vertical"
-    tool
+    tools:context=".Main
