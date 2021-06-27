@@ -10,4 +10,4 @@
 
     <TextView
         android:id="@+id/textView"
-        andro
+        android:layout_width="matc
