@@ -15,4 +15,5 @@
         android:background="#855017"
         android:backgroundTint="#855017"
         android:fontFamily="serif"
-        android:contentDescription="@string/tit
+        android:contentDescription="@string/title"
+        andr
