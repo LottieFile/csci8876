@@ -16,4 +16,4 @@
         android:backgroundTint="#855017"
         android:fontFamily="serif"
         android:contentDescription="@string/title"
-        andr
+        android:lineSpacingExtra="8sp"
