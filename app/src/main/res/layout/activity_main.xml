@@ -19,4 +19,5 @@
         android:lineSpacingExtra="8sp"
         android:textAlignment="center"
         android:textColor="#F0DB80"
-        android:
+        android:textSize="50sp"
+   
