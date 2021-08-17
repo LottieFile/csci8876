@@ -17,4 +17,5 @@
         android:fontFamily="serif"
         android:contentDescription="@string/title"
         android:lineSpacingExtra="8sp"
-        android:textAlignment="center
+        android:textAlignment="center"
+        android:t
