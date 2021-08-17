@@ -18,4 +18,4 @@
         android:contentDescription="@string/title"
         android:lineSpacingExtra="8sp"
         android:textAlignment="center"
-        android:t
+        android:textColor="#F0DB
