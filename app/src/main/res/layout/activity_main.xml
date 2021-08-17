@@ -18,4 +18,5 @@
         android:contentDescription="@string/title"
         android:lineSpacingExtra="8sp"
         android:textAlignment="center"
-        android:textColor="#F0DB
+        android:textColor="#F0DB80"
+        android:
