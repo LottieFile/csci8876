@@ -20,4 +20,6 @@
         android:textAlignment="center"
         android:textColor="#F0DB80"
         android:textSize="50sp"
-        android:text="@string/titl
+        android:text="@string/title"/>
+
+    <Im
