@@ -23,4 +23,4 @@
         android:text="@string/title"/>
 
     <ImageView
-        android:i
+        android:id="@+id/toss
