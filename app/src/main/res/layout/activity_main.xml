@@ -22,4 +22,5 @@
         android:textSize="50sp"
         android:text="@string/title"/>
 
-    <Im
+    <ImageView
+        android:i
