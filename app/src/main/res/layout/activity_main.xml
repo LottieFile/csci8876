@@ -24,4 +24,5 @@
 
     <ImageView
         android:id="@+id/toss_Image"
-        android:layout_width="match_p
+        android:layout_width="match_parent"
+        and
