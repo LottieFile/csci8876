@@ -26,4 +26,4 @@
         android:id="@+id/toss_Image"
         android:layout_width="match_parent"
         android:layout_height="500sp"
-        androi
+        android:contentDescripti
