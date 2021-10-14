@@ -29,4 +29,5 @@
         android:contentDescription="@string/tossImage"
         app:srcCompat="@drawable/foreground" />
 
-    <Butt
+    <Button
+        android:i
