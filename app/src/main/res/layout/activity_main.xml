@@ -30,4 +30,4 @@
         app:srcCompat="@drawable/foreground" />
 
     <Button
-        android:i
+        android:id="@+id/toss_Button
