@@ -32,4 +32,5 @@
     <Button
         android:id="@+id/toss_Button"
         android:layout_width="match_parent"
-        android:layout_height="
+        android:layout_height="wrap_content"
+      
