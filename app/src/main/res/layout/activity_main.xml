@@ -33,4 +33,5 @@
         android:id="@+id/toss_Button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundT
+        android:backgroundTint="#865017"
+   
