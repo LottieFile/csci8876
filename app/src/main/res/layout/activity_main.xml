@@ -31,4 +31,4 @@
 
     <Button
         android:id="@+id/toss_Button"
-        android:lay
+        android:layout_width="matc
