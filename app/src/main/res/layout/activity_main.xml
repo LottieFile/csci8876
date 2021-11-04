@@ -36,4 +36,5 @@
         android:backgroundTint="#865017"
         android:fontFamily="serif"
         android:textAlignment="center"
-        andr
+        android:textColor="#FAE889"
+    
