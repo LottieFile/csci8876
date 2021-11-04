@@ -35,4 +35,5 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#865017"
         android:fontFamily="serif"
-        android:textAlignment
+        android:textAlignment="center"
+        andr
