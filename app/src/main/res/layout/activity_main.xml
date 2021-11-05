@@ -37,4 +37,4 @@
         android:fontFamily="serif"
         android:textAlignment="center"
         android:textColor="#FAE889"
-    
+        android:textSize="35sp"
