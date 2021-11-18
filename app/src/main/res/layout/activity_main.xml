@@ -38,4 +38,4 @@
         android:textAlignment="center"
         android:textColor="#FAE889"
         android:textSize="35sp"
-        android:con
+        android:contentDescription="@string/tos
