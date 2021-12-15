@@ -39,4 +39,5 @@
         android:textColor="#FAE889"
         android:textSize="35sp"
         android:contentDescription="@string/tossButton"
-        android:text="@string/tossBut
+        android:text="@string/tossButton"/>
+</LinearLayou
