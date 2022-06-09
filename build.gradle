@@ -3,4 +3,7 @@
 buildscript {
     repositories {
         google()
-        jcente
+        jcenter()
+        
+    }
+    depe
