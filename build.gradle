@@ -2,4 +2,5 @@
 
 buildscript {
     repositories {
-        google
+        google()
+        jcente
