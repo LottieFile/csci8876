@@ -16,4 +16,5 @@ buildscript {
 
 allprojects {
     repositories {
-        googl
+        google()
+        jcenter()
