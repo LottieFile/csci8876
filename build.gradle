@@ -15,4 +15,5 @@ buildscript {
 }
 
 allprojects {
-    reposit
+    repositories {
+        googl
