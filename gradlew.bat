@@ -1,1 +1,1 @@
-@if "%D
+@if "%DEBUG%" == "" @ech
