@@ -40,4 +40,4 @@ if exist "%JAVA_EXE%" goto init
 echo.
 echo ERROR: JAVA_HOME is set to an invalid directory: %JAVA_HOME%
 echo.
-echo Please set 
+echo Please set the JAVA_HOME variable 
