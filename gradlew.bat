@@ -46,4 +46,6 @@ echo location of your Java installation.
 goto fail
 
 :init
-@rem Get command-line arguments, handling Windows v
+@rem Get command-line arguments, handling Windows variants
+
+if not "%OS%" =
