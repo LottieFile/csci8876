@@ -48,4 +48,4 @@ goto fail
 :init
 @rem Get command-line arguments, handling Windows variants
 
-if not "%OS%" =
+if not "%OS%" == "Windows_NT" goto wi
