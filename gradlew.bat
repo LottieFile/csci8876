@@ -50,4 +50,5 @@ goto fail
 
 if not "%OS%" == "Windows_NT" goto win9xME_args
 
-:w
+:win9xME_args
+@r
